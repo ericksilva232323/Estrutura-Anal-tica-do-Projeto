@@ -54,9 +54,11 @@ O sistema de gerenciamento da clínica precisa resolver os seguintes problemas e
 # Atividade
 
 Deve ser realizado através desta situação problemas os 3 diagramas estudados durante a aula: 
- - Diagrama de Caso de Uso
- - Diagrama de Entidade
- - Diagrama de Classe
+ - Diagrama de Caso de Uso ![CASOS](assets/Casos.png)
+
+ - Diagrama de Entidade ![CLASSES](assets/Classes.png)
+
+ - Diagrama de Classe ![ENTIDADE](assets/Entidade.png)
 
 Vou deixar aqui para auxilio um contexto que devem existir no diagrama de caso de Uso
 
@@ -79,4 +81,4 @@ Vou deixar aqui para auxilio um contexto que devem existir no diagrama de caso d
  - **Cancelar Consulta:** Permite ao paciente cancelar uma consulta.
  - **Consultar Histórico Médico:** Permite ao paciente visualizar seu histórico médico e prescrições anteriores.
 
- Link do CANVAS: [DIAGRAMA GERAL](https://www.canva.com/design/DAGPm_mHMcc/GI_bNvurIu5Bi3aNoWVElg/edit?utm_content=DAGPm_mHMcc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ Link do CANVAS: [DIAGRAMA DE CASOS E DIAGRAMA DE CLASSES](https://www.canva.com/design/DAGPm_mHMcc/GI_bNvurIu5Bi3aNoWVElg/edit?utm_content=DAGPm_mHMcc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
